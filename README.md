@@ -25,6 +25,10 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Server.png)
 
+## 📑 Game Tester (QA) Roadmap
+
+![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/GameTester(QA).png)
+
 ## 🚦 Wrap Up
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
@@ -33,9 +37,10 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 - [X] Add Introduction
 - [X] Add Client Programmer Roadmap
-- [X] Add Server Programmer Roadmap
+- [ ] Add Server Programmer Roadmap
 - [ ] Add Designer Roadmap
 - [ ] Add Artist Roadmap
+- [X] Add Game Tester (QA) Roadmap
 - [ ] Add relevant resources for each
 
 ## 👬 Contribution
